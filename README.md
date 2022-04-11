@@ -1,4 +1,7 @@
 # Flanker Task Game: Examining the Effects of Video Games on Cognitive and Brain Functions
 
-Repository for an Unreal Engine video game based on the Eriksen Flanker task, a psychological task used to measure the ability to suppress incorrect or inappropriate responses. 
-This repository contains the source files of the video game. These files can be downloaded and opened with the Unreal Engine 4.24 for editing and modifying the game. These files do not contain the game launcher so the video game cannot be played by downloaded them. This software is NOT intended for commercial use. 
+Repository for an Unreal Engine video game based on the Eriksen Flanker task, a psychological task used to measure the ability to suppress incorrect or inappropriate responses. The action video game provides a role-playing experience to the user and stores the user's key responses and reaction times. This behavioral data allows us to determine whether this video game version accurately emulates the laboratory flanker and is a viable tool for measuring cognition. 
+
+This video game was created as a part of the research on examining cognitive effects of video games currently being conducted at Ohio Wesleyan University, Delaware, OH. Note that the game is still in development and changes, as deemed necessary, will be made from time to time. The current version v1.0.0 is being used for collecting behavioral data from participants in the ongoing study. 
+
+This repository contains the source files of the video game. These files can be downloaded and opened with the Unreal Engine 4.24 for editing and modifying the game. These files do not contain the game launcher so the video game cannot be played by downloaded them. To play the video game, download and extract the zip file from the releases under this repository. The Unreal Engine project and the video game are NOT intended for commercial use. 
